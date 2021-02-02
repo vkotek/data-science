@@ -1,6 +1,6 @@
 # Custom Ignores
-sources/*
-output/*
+*/sources/*
+*/output/*
 
 
 # Byte-compiled / optimized / DLL files
